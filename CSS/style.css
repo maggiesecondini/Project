@@ -1,0 +1,130 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  position:relative;
+  font-family:Montserrat, sans-serif;
+  background-color:white;
+  text-align:center;
+}
+/*NAVBAR*/
+.navbar{
+border-radius: 0; border:none;box-shadow:0 50px 100px #fff}
+}
+/*JUMBOTRON*/
+h1{text-align:center;
+margin:1.3em}
+h1.hello{
+  text-align:center;
+  margin-top:1.3em;
+}
+.jumbotron{
+  background-color:#595758;
+  color:white;
+  text-align:center;
+  margin-top:2em;
+}
+#home h1{
+  text-align:center;
+}
+/*PRESENTAZIONE*/
+#chi-sono img{
+  margin-top:3.5em;
+}
+#chi-sono h1{
+  text-align:center;
+  margin-top: 1.3em;
+  margin-bottom:1.3em;
+}
+#chi-sono p{
+  margin-bottom:2em;
+}
+#chi-sono a{
+  margin-bottom:2em;
+}
+.card h3{
+  margin-top:1em;
+}
+/*JUMBOTRON 2*/
+.jumbotron2{
+  margin:2em;
+  padding:1em;
+background-color:#F6E0E1;
+color:black;
+text-align:center;
+letter-spacing: 10px;
+box-shadow:0 10px 50px #000;
+}
+.jumbotron2 h3{
+  margin-top:2em;
+}
+/*SKILLS*/
+#skills{
+  width:80%;
+  margin-top:3em;
+  margin-bottom:3em;
+  padding:2em;
+  text-align:center;
+  background-color: #595758;
+  color:white;
+}
+#skills h1{
+  text-align:center;
+}
+/*HOBBY*/
+#passioni{
+  position: relative;
+  margin-bottom:4em;
+}
+#passioni h1{
+  margin-top:1.3em;
+  margin-bottom:1.3em;
+}
+#musica,#fotografia,#viaggi,#sport{
+  border:1px solid;
+  padding:1em;
+  margin:1em;
+  border-radius:50px;
+}
+/*PROGETTI*/
+#progetti h1{
+  margin-top:1.3em;
+}
+#Slide{
+  margin:0 auto;
+}
+.carousel-item active{
+  position:relative;
+  left:auto;
+  right:auto;
+}
+/*FORM*/
+.form{
+  margin:3em;
+}
+#info{
+  color:#8A7C74;
+}
+.form-group{
+padding:10px;
+width:200px;
+word-wrap: break-word;
+color:grey;
+}
+/*CONTATTI*/
+#contatti{
+  position: relative;
+  margin-top:4em;
+  background-color: #8A7C74;
+  color:white;
+  letter-spacing: 10px;
+}
+#contatti h1{
+  margin-bottom:1.3em;
+}
+#facebook a,#instagram a,#linkedin a{
+  color:white;
+  text-decoration: underline;
+}
